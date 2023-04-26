@@ -1,1 +1,1 @@
-# Optimized-Wafer-Fault-Detection-System
+# Optimized Wafer Fault Detection System

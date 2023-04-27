@@ -19,38 +19,38 @@ The data is in multiple sets of files in batches to a given location. Data conta
 
 ## Requirements
 
- attrs==19.3.0
- certifi==2019.11.28
- Click==7.0
-cycler==0.10.0
- Flask==1.1.1
-Flask-Cors==3.0.8
-importlib-metadata==1.4.0
-Flask-MonitoringDashboard==3.0.6
-itsdangerous==1.1.0
-Jinja2==2.11.0
-joblib==0.14.1
-jsonschema==3.2.0
-kiwisolver==1.1.0
-kneed==0.5.1
-MarkupSafe==1.1.1
-matplotlib==3.1.2
-more-itertools==8.1.0
-numpy==1.18.1
-pandas==0.25.3
-pyparsing==2.4.6
-pyrsistent==0.15.7
-python-dateutil==2.8.1
-pytz==2019.3
-PyYAML==5.3
-regexp==0.1
-scikit-learn==0.22.1
-six==1.14.0
-sklearn==0.0
-Werkzeug==0.16.1
-wincertstore==0.2
-xgboost==0.90
-zipp==2.0.1
+1. attrs==19.3.0
+2. certifi==2019.11.28
+3. Click==7.0
+4. cycler==0.10.0
+5. Flask==1.1.1
+6. Flask-Cors==3.0.8
+7. importlib-metadata==1.4.0
+8. Flask-MonitoringDashboard==3.0.6
+9. itsdangerous==1.1.0
+10. Jinja2==2.11.0
+11. joblib==0.14.1
+12. jsonschema==3.2.0
+13. kiwisolver==1.1.0
+14. kneed==0.5.1
+15. MarkupSafe==1.1.1
+16. matplotlib==3.1.2
+17. more-itertools==8.1.0
+18. 1numpy==1.18.1
+19. pandas==0.25.3
+20. pyparsing==2.4.6
+21. pyrsistent==0.15.7
+22. python-dateutil==2.8.1
+23. pytz==2019.3
+24. PyYAML==5.3
+25. regexp==0.1
+26. scikit-learn==0.22.1
+27. six==1.14.0
+28. sklearn==0.0
+29. Werkzeug==0.16.1
+30. wincertstore==0.2
+31. xgboost==0.90
+32. zipp==2.0.1
 
 
 ## Usage

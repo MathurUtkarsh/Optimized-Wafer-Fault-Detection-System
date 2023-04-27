@@ -1,0 +1,1 @@
+It is the training file extracted or imported from training databases.

@@ -1,0 +1,1 @@
+When you will train the model for the training batch files then the model will get saved here. Here you will have a model (Best Model) for each cluster. 

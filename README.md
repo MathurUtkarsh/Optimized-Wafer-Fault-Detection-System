@@ -30,12 +30,20 @@ Note: To run the project, you need to train the model on training data again sin
 To make this process easier, I have created a training_endpoint.py file which can be used to train the data and save the resulting models in a single click. Additionally, I have incorporated this file into the main.py file so that whenever you run main.py, it will first train the model and save it, and then allow you to make predictions. However, please note that this feature is not implemented on the UI part.
 
 ![Screenshot 2023-04-28 030001](https://user-images.githubusercontent.com/78642104/234997657-e326e490-d513-4ed7-8b92-31dc7ee3408c.png)
-
+ 
+ 
 This is how main.py looks like:
 
 ![Screenshot 2023-04-28 030107](https://user-images.githubusercontent.com/78642104/234997681-8843a7ad-8b2c-4e6a-b6aa-f49bdd72e6e5.png)
 
+
 This is how train_endpoint.py looks like 
 
 ![Screenshot 2023-04-28 030138](https://user-images.githubusercontent.com/78642104/234997885-c029fc05-ed27-4bbf-9d7b-d441332daa88.png)
+
+## Conclusion
+
+In conclusion, the wafer fault detection project aims to detect faulty wafers in semiconductor manufacturing processes. The project uses machine learning algorithms to classify wafers into fault and non-fault categories. Here various data pre-processing techniques, including oversampling and undersampling, were applied to the data. The performance of several machine learning models, including SVM, Random Forest, and XGBoost, was evaluated on the pre-processed data. 
+
+Finally, a web application was built using Flask to demonstrate the model's performance on new, unseen data. The application takes a CSV file of wafer sensor data as input and predicts whether the wafers are faulty or non-faulty. This project demonstrates the potential of machine learning algorithms in improving the efficiency and reliability of semiconductor manufacturing processes.
 

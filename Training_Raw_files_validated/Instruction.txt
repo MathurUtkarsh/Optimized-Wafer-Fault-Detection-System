@@ -1,0 +1,1 @@
+It will contain all the files that are validated in the previous step while training.

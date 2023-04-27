@@ -19,11 +19,11 @@ The data is in multiple sets of files in batches to a given location. Data conta
 
 ## Requirements
 
-attrs==19.3.0
-certifi==2019.11.28
-Click==7.0
+ attrs==19.3.0
+ certifi==2019.11.28
+ Click==7.0
 cycler==0.10.0
-Flask==1.1.1
+ Flask==1.1.1
 Flask-Cors==3.0.8
 importlib-metadata==1.4.0
 Flask-MonitoringDashboard==3.0.6

@@ -8,7 +8,7 @@ This project is a machine learning solution to predict the quality of wafer sens
 
 ## Data Description
 
-The data is in multiple sets of files in batches to a given location. Data contains wafer names and 590 columns of different sensor values for each wafer. The last column has the "Good/Bad" value for each wafer, where +1 represents a good wafer and -1 represents a bad wafer. Apart from training and prediction files, a "schema" file is required from the client. It contains all the relevant information about the files, such as the name, length of date value in the filename, length of time value in the filename, number of columns, name of the columns, and their datatype.
+The data is in multiple sets of files in batches to a given location. Data contains wafer names and 590 columns of different sensor values for each wafer. The last column has the "Good/Bad" value for each wafer, where +1 represents a bad wafer and -1 represents a good wafer. Apart from training and prediction files, a "schema" file is required from the client. It contains all the relevant information about the files, such as the name, length of date value in the filename, length of time value in the filename, number of columns, name of the columns, and their datatype.
 
 ## Functional Architecture
 
